@@ -9,9 +9,9 @@ It is a Japanese anime series about a young ninja named Naruto Uzumaki who dream
 # Genre: Action, Adventure, and Fantasy
 
 # Why I like it
--The story shows that hard work and determination can help us achieve our goals.
--It teaches us to stay strong even when life becomes difficult.
--I like ninja
+The story shows that hard work and determination can help us achieve our goals.
+It teaches us to stay strong even when life becomes difficult.
+I like ninja.
 It teaches us to believe in ourselves.
 
 # My Favorite Quote 
